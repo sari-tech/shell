@@ -16,7 +16,7 @@ cp file.txt file.txt ./dir1 ./dir2 ./dir3 ./dir4 ./dir5
 # 4. How would you verify the presence of all 5 files?
 ls dir1/ dir2/ dir3/ dir4/ dir5/
 # 5. How would you append to one of the existing files " and machine learning!"?
-echo " and machine learning" >> ./dir1/file.txt
+echo " and machine learning!" >> ./dir1/file.txt
 # 6. How would you verify that the text was indeed appended to the existing file?
 cat dir1/file.txt
 # 7. How would you delete all files except for the one with the appended text?
