@@ -17,7 +17,6 @@
 
 # 5. How would you append to one of the existing files " and machine learning!"?
 
-
 # 6. How would you verify that the text was indeed appended to the existing file?
 
 
