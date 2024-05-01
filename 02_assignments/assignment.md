@@ -47,11 +47,11 @@ Hanger Games & the Stars of Darkness
 ```
 Your answer here...
 Paper Rings
-10
-Elizabeth's
-and
+season_10
+Meets
+Past
 Lucky
-the
+Stars
 
 
 
